@@ -158,16 +158,16 @@ gearguard/
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]([screenshots/dashboard.png](https://drive.google.com/open?id=1t0qFjaVOhiHAxaRkyaff_K9hkWV7as1o&usp=drive_copy))
 
 ### Equipment Management
-![Equipment](screenshots/equipment.png)
+![Equipment]([screenshots/equipment.png](https://drive.google.com/open?id=1cEKCXbxyXf1Yf-pGwIZxYLr5dLQ1Xyuv&usp=drive_copy))
 
 ### Kanban Board
-![Requests](screenshots/requests.png)
+![Requests]([screenshots/requests.png](https://drive.google.com/open?id=1aNbN-uHPwfzPoPl_TME7s7syh7_FLTP-&usp=drive_copy))
 
 ### Category Management
-![Categories](screenshots/categories.png)
+![Categories]([screenshots/categories.png](https://drive.google.com/open?id=1sB8FZLzLmUP1wkaO1OksTpcRoknfhHmJ&usp=drive_copy))
 
 ## 🛠️ Technology Stack
 
@@ -179,13 +179,13 @@ gearguard/
 
 ## 📈 Future Enhancements
 
-- [ ] Work Center Management (OEE tracking, cost per hour)
-- [ ] Advanced reporting and exports (PDF, Excel)
-- [ ] Email notifications for overdue requests
-- [ ] Mobile app (React Native)
-- [ ] Multi-language support
-- [ ] File attachments for requests
-- [ ] Barcode/QR code scanning
+-  Work Center Management (OEE tracking, cost per hour)
+-  Advanced reporting and exports (PDF, Excel)
+-  Email notifications for overdue requests
+-  Mobile app (React Native)
+-  Multi-language support
+-  File attachments for requests
+-  Barcode/QR code scanning
 
 ## 🤝 Contributing
 
@@ -204,8 +204,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- Email: your.email@example.com
+- GitHub: [Dadresavishal15](https://github.com/Dadresavishal15/GearGuard.git)
+- Email: vishaldadaresa.cse23@adaniuni.ac.in
 
 ## 🙏 Acknowledgments
 
@@ -215,8 +215,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the GitHub repository.
+For support, abhivirani2556@gmail.com in the GitHub repository.
 
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
+
